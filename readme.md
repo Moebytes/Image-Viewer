@@ -1,4 +1,4 @@
-# Local Image Viewer
+# Image Viewer
 
 A local image viewer.
 
